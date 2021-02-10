@@ -19,6 +19,4 @@ deploy:
  on:
    branch: main
 notifications:
-  slack:
-    rooms:
-	  - hidy-group:PaEFr8Ssa7CPvyCtGBrYf8F2#general
+  slack: hidy-group:oPpaFIQ1OSKnREoNmZEioGxk
