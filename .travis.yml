@@ -19,5 +19,6 @@ deploy:
  on:
    branch: main
 notifications:
-  slack: 
-    secure: sdfgdg
+  slack:
+    rooms:
+	  - hidy-group:PaEFr8Ssa7CPvyCtGBrYf8F2#general
