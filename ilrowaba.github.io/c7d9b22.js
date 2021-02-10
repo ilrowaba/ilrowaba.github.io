@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{268:function(n,t,e){"use strict";e.r(t);var l={},c=e(57),component=Object(c.a)(l,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("안녕하세요 디자이너 김현일입니다.123")])}),[],!1,null,null,null);t.default=component.exports}}]);
