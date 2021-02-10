@@ -7,7 +7,7 @@ cache: npm
 install:
   - npm install
 
-script: npm run generate
+script: npm run build && npm run generate
 
 deploy:
 #  fqdn: breadgood.com
